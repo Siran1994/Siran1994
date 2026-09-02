@@ -39,4 +39,4 @@
 ### 📫 Connect with Me
 
 - 💼 **GitHub:** [@Siran1994](https://github.com/Siran1994)
-- ✉️ **Email:** Boskbu@gmail.com
+- ✉️ **Email:** Boskbu@gmail.com/siran1994@qq.com
