@@ -30,8 +30,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Siran1994&show_icons=true&theme=radical&hide_border=true" alt="Siran's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Siran1994&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siran1994&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siran1994&theme=radical" alt="Languages" />
 </p>
 
 <p align="center">
@@ -44,3 +44,4 @@
 
 - 💼 **GitHub:** [@Siran1994](https://github.com/Siran1994)
 - ✉️ **Email:** Boskbu@gmail.com/siran1994@qq.com
+- 🐧 **QQ:** 342093031
