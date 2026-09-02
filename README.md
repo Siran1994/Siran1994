@@ -30,8 +30,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siran1994&show_icons=true&theme=radical&hide_border=true" alt="Siran's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siran1994&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Siran1994&show_icons=true&theme=radical&hide_border=true" alt="Siran's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Siran1994&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Siran1994&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -39,4 +43,4 @@
 ### 📫 Connect with Me
 
 - 💼 **GitHub:** [@Siran1994](https://github.com/Siran1994)
-- ✉️ **Email:** Boskbu@gmail.com/siran1994@qq.com
+- ✉️ **Email:** Boskbu@gmail.com
